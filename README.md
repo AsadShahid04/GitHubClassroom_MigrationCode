@@ -58,13 +58,13 @@ python AsadGithubClassroomMigrationScript.py
 ```
 
 2. Check the log file:
-The script will log its actions and any errors to github_migration.log. Check this file to ensure the migration process completed successfully.
+The script will log its actions and any errors to github_migration.log. Check this file to ensure the migration process is completed successfully.
 
 ## Notes
 - Make sure that the GitHub CLI is authenticated with sufficient permissions.
 - This script uses git clone --mirror to clone repositories, which clones all refs (branches, tags, etc.). 
 - If you only need specific branches or tags, you can modify the clone command accordingly.
-- All new repositories are made private through the use of ` --private` flag attatched to the end of line 62:
+- All new repositories are made private through the use of `--private` flag attached to the end of line 62:
 ```
 command = f"gh repo create {repo_name} --private"
 ```
@@ -76,7 +76,7 @@ Check if the repositories exist and the URLs are correct.
 - Errors during repository creation:
 Ensure you have the necessary permissions to create repositories in the target GitHub account.
 
-- Errors during pushing:Ensure the new repositories are created correctly and the remote URLs are set properly.
+- Errors during pushing: Ensure the new repositories are created correctly and the remote URLs are set properly.
 
 ## License
 This project is licensed under the MIT License.
