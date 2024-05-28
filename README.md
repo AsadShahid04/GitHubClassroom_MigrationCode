@@ -8,11 +8,6 @@ This repository contains a Python script to automate the process of migrating re
 2. Creates new repositories on GitHub.
 3. Pushes the cloned repositories to the newly created repositories on GitHub.
 
-## Files
-
-- `AsadGithubClassroomMigrationScript.py`: The main script for cloning, creating, and pushing repositories.
-- `github_migration.log`: A log file that captures the output and errors during the script execution.
-
 ## Prerequisites
 
 - Python 3.x
