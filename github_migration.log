@@ -1,0 +1,406 @@
+2024-05-28 00:00:41,483 - INFO - Starting the cloning and pushing process
+2024-05-28 00:00:42,209 - INFO - GitHub username: AsadShahid04
+2024-05-28 00:00:42,210 - INFO - Cloning repository https://github.com/drdr-teaching/homework-4-asad_jeremy_hw4
+2024-05-28 00:00:42,210 - INFO - Running command: git clone https://github.com/drdr-teaching/homework-4-asad_jeremy_hw4 /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/homework-4-asad_jeremy_hw4
+2024-05-28 00:00:43,486 - INFO - Command output: 
+2024-05-28 00:00:43,486 - INFO - Successfully cloned https://github.com/drdr-teaching/homework-4-asad_jeremy_hw4 to /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/homework-4-asad_jeremy_hw4
+2024-05-28 00:00:43,486 - INFO - Cloning repository https://github.com/drdr-teaching/lab-23-asadlab23
+2024-05-28 00:00:43,486 - INFO - Running command: git clone https://github.com/drdr-teaching/lab-23-asadlab23 /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-23-asadlab23
+2024-05-28 00:00:44,535 - INFO - Command output: 
+2024-05-28 00:00:44,535 - INFO - Successfully cloned https://github.com/drdr-teaching/lab-23-asadlab23 to /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-23-asadlab23
+2024-05-28 00:00:44,535 - INFO - Cloning repository https://github.com/drdr-teaching/lab-22-asadlab22
+2024-05-28 00:00:44,535 - INFO - Running command: git clone https://github.com/drdr-teaching/lab-22-asadlab22 /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-22-asadlab22
+2024-05-28 00:00:45,528 - INFO - Command output: 
+2024-05-28 00:00:45,529 - INFO - Successfully cloned https://github.com/drdr-teaching/lab-22-asadlab22 to /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-22-asadlab22
+2024-05-28 00:00:45,529 - INFO - Cloning repository https://github.com/drdr-teaching/lab-21-asad-lab21
+2024-05-28 00:00:45,529 - INFO - Running command: git clone https://github.com/drdr-teaching/lab-21-asad-lab21 /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-21-asad-lab21
+2024-05-28 00:00:46,729 - INFO - Command output: 
+2024-05-28 00:00:46,730 - INFO - Successfully cloned https://github.com/drdr-teaching/lab-21-asad-lab21 to /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-21-asad-lab21
+2024-05-28 00:00:46,730 - INFO - Cloning repository https://github.com/drdr-teaching/homework-3-austin-and-asad-hw3
+2024-05-28 00:00:46,730 - INFO - Running command: git clone https://github.com/drdr-teaching/homework-3-austin-and-asad-hw3 /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/homework-3-austin-and-asad-hw3
+2024-05-28 00:00:47,976 - INFO - Command output: 
+2024-05-28 00:00:47,976 - INFO - Successfully cloned https://github.com/drdr-teaching/homework-3-austin-and-asad-hw3 to /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/homework-3-austin-and-asad-hw3
+2024-05-28 00:00:47,976 - INFO - Cloning repository https://github.com/drdr-teaching/lab-20-asad-lab20
+2024-05-28 00:00:47,976 - INFO - Running command: git clone https://github.com/drdr-teaching/lab-20-asad-lab20 /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-20-asad-lab20
+2024-05-28 00:00:48,981 - INFO - Command output: 
+2024-05-28 00:00:48,981 - INFO - Successfully cloned https://github.com/drdr-teaching/lab-20-asad-lab20 to /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-20-asad-lab20
+2024-05-28 00:00:48,981 - INFO - Cloning repository https://github.com/drdr-teaching/lab-19-asad_lab19
+2024-05-28 00:00:48,981 - INFO - Running command: git clone https://github.com/drdr-teaching/lab-19-asad_lab19 /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-19-asad_lab19
+2024-05-28 00:00:50,071 - INFO - Command output: 
+2024-05-28 00:00:50,071 - INFO - Successfully cloned https://github.com/drdr-teaching/lab-19-asad_lab19 to /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-19-asad_lab19
+2024-05-28 00:00:50,071 - INFO - Cloning repository https://github.com/drdr-teaching/lab-18-asad-lab18
+2024-05-28 00:00:50,071 - INFO - Running command: git clone https://github.com/drdr-teaching/lab-18-asad-lab18 /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-18-asad-lab18
+2024-05-28 00:00:51,123 - INFO - Command output: 
+2024-05-28 00:00:51,123 - INFO - Successfully cloned https://github.com/drdr-teaching/lab-18-asad-lab18 to /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-18-asad-lab18
+2024-05-28 00:00:51,123 - INFO - Cloning repository https://github.com/drdr-teaching/lab-17-2-asad_lab17_new
+2024-05-28 00:00:51,123 - INFO - Running command: git clone https://github.com/drdr-teaching/lab-17-2-asad_lab17_new /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-17-2-asad_lab17_new
+2024-05-28 00:00:52,327 - INFO - Command output: 
+2024-05-28 00:00:52,327 - INFO - Successfully cloned https://github.com/drdr-teaching/lab-17-2-asad_lab17_new to /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-17-2-asad_lab17_new
+2024-05-28 00:00:52,327 - INFO - Cloning repository https://github.com/drdr-teaching/lab-16-asad-lab16
+2024-05-28 00:00:52,327 - INFO - Running command: git clone https://github.com/drdr-teaching/lab-16-asad-lab16 /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-16-asad-lab16
+2024-05-28 00:00:53,226 - INFO - Command output: 
+2024-05-28 00:00:53,227 - INFO - Successfully cloned https://github.com/drdr-teaching/lab-16-asad-lab16 to /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-16-asad-lab16
+2024-05-28 00:00:53,227 - INFO - Cloning repository https://github.com/drdr-teaching/lab-15-AsadShahid04
+2024-05-28 00:00:53,227 - INFO - Running command: git clone https://github.com/drdr-teaching/lab-15-AsadShahid04 /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-15-AsadShahid04
+2024-05-28 00:00:54,240 - INFO - Command output: 
+2024-05-28 00:00:54,240 - INFO - Successfully cloned https://github.com/drdr-teaching/lab-15-AsadShahid04 to /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-15-AsadShahid04
+2024-05-28 00:00:54,240 - INFO - Cloning repository https://github.com/drdr-teaching/homework-2-asad_jeremy_hw2
+2024-05-28 00:00:54,241 - INFO - Running command: git clone https://github.com/drdr-teaching/homework-2-asad_jeremy_hw2 /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/homework-2-asad_jeremy_hw2
+2024-05-28 00:00:55,287 - INFO - Command output: 
+2024-05-28 00:00:55,287 - INFO - Successfully cloned https://github.com/drdr-teaching/homework-2-asad_jeremy_hw2 to /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/homework-2-asad_jeremy_hw2
+2024-05-28 00:00:55,287 - INFO - Cloning repository https://github.com/drdr-teaching/lab-14-asad_lab14
+2024-05-28 00:00:55,287 - INFO - Running command: git clone https://github.com/drdr-teaching/lab-14-asad_lab14 /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-14-asad_lab14
+2024-05-28 00:00:56,363 - INFO - Command output: 
+2024-05-28 00:00:56,364 - INFO - Successfully cloned https://github.com/drdr-teaching/lab-14-asad_lab14 to /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-14-asad_lab14
+2024-05-28 00:00:56,364 - INFO - Cloning repository https://github.com/drdr-teaching/lab-13-asad_lab13
+2024-05-28 00:00:56,364 - INFO - Running command: git clone https://github.com/drdr-teaching/lab-13-asad_lab13 /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-13-asad_lab13
+2024-05-28 00:00:57,366 - INFO - Command output: 
+2024-05-28 00:00:57,367 - INFO - Successfully cloned https://github.com/drdr-teaching/lab-13-asad_lab13 to /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-13-asad_lab13
+2024-05-28 00:00:57,367 - INFO - Cloning repository https://github.com/drdr-teaching/lab-12-asad_lab12
+2024-05-28 00:00:57,367 - INFO - Running command: git clone https://github.com/drdr-teaching/lab-12-asad_lab12 /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-12-asad_lab12
+2024-05-28 00:00:58,505 - INFO - Command output: 
+2024-05-28 00:00:58,506 - INFO - Successfully cloned https://github.com/drdr-teaching/lab-12-asad_lab12 to /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-12-asad_lab12
+2024-05-28 00:00:58,506 - INFO - Cloning repository https://github.com/drdr-teaching/lab-11-asad_lab11
+2024-05-28 00:00:58,506 - INFO - Running command: git clone https://github.com/drdr-teaching/lab-11-asad_lab11 /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-11-asad_lab11
+2024-05-28 00:00:59,569 - INFO - Command output: 
+2024-05-28 00:00:59,569 - INFO - Successfully cloned https://github.com/drdr-teaching/lab-11-asad_lab11 to /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-11-asad_lab11
+2024-05-28 00:00:59,569 - INFO - Cloning repository https://github.com/drdr-teaching/lab-09-asad_shayan_lab09
+2024-05-28 00:00:59,569 - INFO - Running command: git clone https://github.com/drdr-teaching/lab-09-asad_shayan_lab09 /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-09-asad_shayan_lab09
+2024-05-28 00:01:00,532 - INFO - Command output: 
+2024-05-28 00:01:00,532 - INFO - Successfully cloned https://github.com/drdr-teaching/lab-09-asad_shayan_lab09 to /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-09-asad_shayan_lab09
+2024-05-28 00:01:00,532 - INFO - Cloning repository https://github.com/drdr-teaching/lab-10-asad_lab10
+2024-05-28 00:01:00,533 - INFO - Running command: git clone https://github.com/drdr-teaching/lab-10-asad_lab10 /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-10-asad_lab10
+2024-05-28 00:01:01,651 - INFO - Command output: 
+2024-05-28 00:01:01,651 - INFO - Successfully cloned https://github.com/drdr-teaching/lab-10-asad_lab10 to /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-10-asad_lab10
+2024-05-28 00:01:01,651 - INFO - Cloning repository https://github.com/drdr-teaching/homework-1-jeremy-and-asad-hw1
+2024-05-28 00:01:01,651 - INFO - Running command: git clone https://github.com/drdr-teaching/homework-1-jeremy-and-asad-hw1 /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/homework-1-jeremy-and-asad-hw1
+2024-05-28 00:01:02,865 - INFO - Command output: 
+2024-05-28 00:01:02,865 - INFO - Successfully cloned https://github.com/drdr-teaching/homework-1-jeremy-and-asad-hw1 to /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/homework-1-jeremy-and-asad-hw1
+2024-05-28 00:01:02,865 - INFO - Cloning repository https://github.com/drdr-teaching/lab-08-asadshayanlab08
+2024-05-28 00:01:02,865 - INFO - Running command: git clone https://github.com/drdr-teaching/lab-08-asadshayanlab08 /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-08-asadshayanlab08
+2024-05-28 00:01:03,966 - INFO - Command output: 
+2024-05-28 00:01:03,966 - INFO - Successfully cloned https://github.com/drdr-teaching/lab-08-asadshayanlab08 to /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-08-asadshayanlab08
+2024-05-28 00:01:03,967 - INFO - Cloning repository https://github.com/drdr-teaching/lab-07-b-asad-joe-lab-7
+2024-05-28 00:01:03,967 - INFO - Running command: git clone https://github.com/drdr-teaching/lab-07-b-asad-joe-lab-7 /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-07-b-asad-joe-lab-7
+2024-05-28 00:01:04,931 - INFO - Command output: 
+2024-05-28 00:01:04,931 - INFO - Successfully cloned https://github.com/drdr-teaching/lab-07-b-asad-joe-lab-7 to /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-07-b-asad-joe-lab-7
+2024-05-28 00:01:04,931 - INFO - Cloning repository https://github.com/drdr-teaching/lab-07-a-asad-joe-lab-7
+2024-05-28 00:01:04,931 - INFO - Running command: git clone https://github.com/drdr-teaching/lab-07-a-asad-joe-lab-7 /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-07-a-asad-joe-lab-7
+2024-05-28 00:01:05,968 - INFO - Command output: 
+2024-05-28 00:01:05,968 - INFO - Successfully cloned https://github.com/drdr-teaching/lab-07-a-asad-joe-lab-7 to /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-07-a-asad-joe-lab-7
+2024-05-28 00:01:05,968 - INFO - Cloning repository https://github.com/drdr-teaching/lab-06-a-asad-joe-lab-6a
+2024-05-28 00:01:05,968 - INFO - Running command: git clone https://github.com/drdr-teaching/lab-06-a-asad-joe-lab-6a /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-06-a-asad-joe-lab-6a
+2024-05-28 00:01:06,905 - INFO - Command output: 
+2024-05-28 00:01:06,905 - INFO - Successfully cloned https://github.com/drdr-teaching/lab-06-a-asad-joe-lab-6a to /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-06-a-asad-joe-lab-6a
+2024-05-28 00:01:06,905 - INFO - Cloning repository https://github.com/drdr-teaching/lab-06-b-asad-joe-lab-6a
+2024-05-28 00:01:06,906 - INFO - Running command: git clone https://github.com/drdr-teaching/lab-06-b-asad-joe-lab-6a /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-06-b-asad-joe-lab-6a
+2024-05-28 00:01:07,911 - INFO - Command output: 
+2024-05-28 00:01:07,911 - INFO - Successfully cloned https://github.com/drdr-teaching/lab-06-b-asad-joe-lab-6a to /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-06-b-asad-joe-lab-6a
+2024-05-28 00:01:07,911 - INFO - Cloning repository https://github.com/drdr-teaching/lab-05-asad-joe-lab-5
+2024-05-28 00:01:07,911 - INFO - Running command: git clone https://github.com/drdr-teaching/lab-05-asad-joe-lab-5 /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-05-asad-joe-lab-5
+2024-05-28 00:01:09,117 - INFO - Command output: 
+2024-05-28 00:01:09,117 - INFO - Successfully cloned https://github.com/drdr-teaching/lab-05-asad-joe-lab-5 to /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-05-asad-joe-lab-5
+2024-05-28 00:01:09,117 - INFO - Cloning repository https://github.com/drdr-teaching/homework-0-asad-shahid-hw0
+2024-05-28 00:01:09,117 - INFO - Running command: git clone https://github.com/drdr-teaching/homework-0-asad-shahid-hw0 /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/homework-0-asad-shahid-hw0
+2024-05-28 00:01:10,173 - INFO - Command output: 
+2024-05-28 00:01:10,173 - INFO - Successfully cloned https://github.com/drdr-teaching/homework-0-asad-shahid-hw0 to /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/homework-0-asad-shahid-hw0
+2024-05-28 00:01:10,173 - INFO - Cloning repository https://github.com/drdr-teaching/lab-04-asad-joe-lab04
+2024-05-28 00:01:10,173 - INFO - Running command: git clone https://github.com/drdr-teaching/lab-04-asad-joe-lab04 /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-04-asad-joe-lab04
+2024-05-28 00:01:11,210 - INFO - Command output: 
+2024-05-28 00:01:11,211 - INFO - Successfully cloned https://github.com/drdr-teaching/lab-04-asad-joe-lab04 to /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-04-asad-joe-lab04
+2024-05-28 00:01:11,211 - INFO - Cloning repository https://github.com/drdr-teaching/lab-02-asad-joe-lab-2
+2024-05-28 00:01:11,211 - INFO - Running command: git clone https://github.com/drdr-teaching/lab-02-asad-joe-lab-2 /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-02-asad-joe-lab-2
+2024-05-28 00:01:12,120 - INFO - Command output: 
+2024-05-28 00:01:12,120 - INFO - Successfully cloned https://github.com/drdr-teaching/lab-02-asad-joe-lab-2 to /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-02-asad-joe-lab-2
+2024-05-28 00:01:12,120 - INFO - Cloning repository https://github.com/drdr-teaching/lab-01-b-AsadShahid04
+2024-05-28 00:01:12,120 - INFO - Running command: git clone https://github.com/drdr-teaching/lab-01-b-AsadShahid04 /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-01-b-AsadShahid04
+2024-05-28 00:01:13,293 - INFO - Command output: 
+2024-05-28 00:01:13,293 - INFO - Successfully cloned https://github.com/drdr-teaching/lab-01-b-AsadShahid04 to /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-01-b-AsadShahid04
+2024-05-28 00:01:13,293 - INFO - Cloning repository https://github.com/drdr-teaching/lab-01-a-AsadShahid04
+2024-05-28 00:01:13,293 - INFO - Running command: git clone https://github.com/drdr-teaching/lab-01-a-AsadShahid04 /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-01-a-AsadShahid04
+2024-05-28 00:01:14,356 - INFO - Command output: 
+2024-05-28 00:01:14,356 - INFO - Successfully cloned https://github.com/drdr-teaching/lab-01-a-AsadShahid04 to /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-01-a-AsadShahid04
+2024-05-28 00:01:14,356 - INFO - Cloning repository https://github.com/drdr-teaching/LPC-F23-CS20-D01-Lab04
+2024-05-28 00:01:14,356 - INFO - Running command: git clone https://github.com/drdr-teaching/LPC-F23-CS20-D01-Lab04 /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/LPC-F23-CS20-D01-Lab04
+2024-05-28 00:01:14,995 - INFO - Command output: 
+2024-05-28 00:01:14,996 - INFO - Successfully cloned https://github.com/drdr-teaching/LPC-F23-CS20-D01-Lab04 to /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/LPC-F23-CS20-D01-Lab04
+2024-05-28 00:01:15,893 - INFO - Repository homework-4-asad_jeremy_hw4 already exists on GitHub. Skipping creation.
+2024-05-28 00:01:15,893 - INFO - Running command: git remote set-url origin https://github.com/AsadShahid04/homework-4-asad_jeremy_hw4.git
+2024-05-28 00:01:15,933 - INFO - Command output: 
+2024-05-28 00:01:15,934 - INFO - Remote URL set to https://github.com/AsadShahid04/homework-4-asad_jeremy_hw4.git
+2024-05-28 00:01:15,934 - INFO - Running command: git push --all
+2024-05-28 00:01:16,519 - INFO - Command output: 
+2024-05-28 00:01:16,519 - INFO - Running command: git push --tags
+2024-05-28 00:01:17,170 - INFO - Command output: 
+2024-05-28 00:01:17,170 - INFO - Successfully pushed /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/homework-4-asad_jeremy_hw4 to https://github.com/AsadShahid04/homework-4-asad_jeremy_hw4.git
+2024-05-28 00:01:17,987 - INFO - Repository lab-23-asadlab23 already exists on GitHub. Skipping creation.
+2024-05-28 00:01:17,987 - INFO - Running command: git remote set-url origin https://github.com/AsadShahid04/lab-23-asadlab23.git
+2024-05-28 00:01:18,036 - INFO - Command output: 
+2024-05-28 00:01:18,037 - INFO - Remote URL set to https://github.com/AsadShahid04/lab-23-asadlab23.git
+2024-05-28 00:01:18,037 - INFO - Running command: git push --all
+2024-05-28 00:01:18,643 - INFO - Command output: 
+2024-05-28 00:01:18,643 - INFO - Running command: git push --tags
+2024-05-28 00:01:19,330 - INFO - Command output: 
+2024-05-28 00:01:19,330 - INFO - Successfully pushed /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-23-asadlab23 to https://github.com/AsadShahid04/lab-23-asadlab23.git
+2024-05-28 00:01:20,083 - INFO - Repository lab-22-asadlab22 already exists on GitHub. Skipping creation.
+2024-05-28 00:01:20,083 - INFO - Running command: git remote set-url origin https://github.com/AsadShahid04/lab-22-asadlab22.git
+2024-05-28 00:01:20,130 - INFO - Command output: 
+2024-05-28 00:01:20,130 - INFO - Remote URL set to https://github.com/AsadShahid04/lab-22-asadlab22.git
+2024-05-28 00:01:20,130 - INFO - Running command: git push --all
+2024-05-28 00:01:20,724 - INFO - Command output: 
+2024-05-28 00:01:20,724 - INFO - Running command: git push --tags
+2024-05-28 00:01:21,361 - INFO - Command output: 
+2024-05-28 00:01:21,361 - INFO - Successfully pushed /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-22-asadlab22 to https://github.com/AsadShahid04/lab-22-asadlab22.git
+2024-05-28 00:01:22,186 - INFO - Repository lab-21-asad-lab21 already exists on GitHub. Skipping creation.
+2024-05-28 00:01:22,187 - INFO - Running command: git remote set-url origin https://github.com/AsadShahid04/lab-21-asad-lab21.git
+2024-05-28 00:01:22,231 - INFO - Command output: 
+2024-05-28 00:01:22,231 - INFO - Remote URL set to https://github.com/AsadShahid04/lab-21-asad-lab21.git
+2024-05-28 00:01:22,231 - INFO - Running command: git push --all
+2024-05-28 00:01:22,828 - INFO - Command output: 
+2024-05-28 00:01:22,828 - INFO - Running command: git push --tags
+2024-05-28 00:01:23,457 - INFO - Command output: 
+2024-05-28 00:01:23,457 - INFO - Successfully pushed /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-21-asad-lab21 to https://github.com/AsadShahid04/lab-21-asad-lab21.git
+2024-05-28 00:01:24,315 - INFO - Repository homework-3-austin-and-asad-hw3 already exists on GitHub. Skipping creation.
+2024-05-28 00:01:24,316 - INFO - Running command: git remote set-url origin https://github.com/AsadShahid04/homework-3-austin-and-asad-hw3.git
+2024-05-28 00:01:24,363 - INFO - Command output: 
+2024-05-28 00:01:24,363 - INFO - Remote URL set to https://github.com/AsadShahid04/homework-3-austin-and-asad-hw3.git
+2024-05-28 00:01:24,363 - INFO - Running command: git push --all
+2024-05-28 00:01:24,951 - INFO - Command output: 
+2024-05-28 00:01:24,951 - INFO - Running command: git push --tags
+2024-05-28 00:01:25,564 - INFO - Command output: 
+2024-05-28 00:01:25,564 - INFO - Successfully pushed /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/homework-3-austin-and-asad-hw3 to https://github.com/AsadShahid04/homework-3-austin-and-asad-hw3.git
+2024-05-28 00:01:26,376 - INFO - Repository lab-20-asad-lab20 already exists on GitHub. Skipping creation.
+2024-05-28 00:01:26,376 - INFO - Running command: git remote set-url origin https://github.com/AsadShahid04/lab-20-asad-lab20.git
+2024-05-28 00:01:26,434 - INFO - Command output: 
+2024-05-28 00:01:26,434 - INFO - Remote URL set to https://github.com/AsadShahid04/lab-20-asad-lab20.git
+2024-05-28 00:01:26,434 - INFO - Running command: git push --all
+2024-05-28 00:01:27,554 - INFO - Command output: 
+2024-05-28 00:01:27,554 - INFO - Running command: git push --tags
+2024-05-28 00:01:28,201 - INFO - Command output: 
+2024-05-28 00:01:28,201 - INFO - Successfully pushed /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-20-asad-lab20 to https://github.com/AsadShahid04/lab-20-asad-lab20.git
+2024-05-28 00:01:28,998 - INFO - Repository lab-19-asad_lab19 already exists on GitHub. Skipping creation.
+2024-05-28 00:01:28,999 - INFO - Running command: git remote set-url origin https://github.com/AsadShahid04/lab-19-asad_lab19.git
+2024-05-28 00:01:29,050 - INFO - Command output: 
+2024-05-28 00:01:29,050 - INFO - Remote URL set to https://github.com/AsadShahid04/lab-19-asad_lab19.git
+2024-05-28 00:01:29,050 - INFO - Running command: git push --all
+2024-05-28 00:01:30,092 - INFO - Command output: 
+2024-05-28 00:01:30,093 - INFO - Running command: git push --tags
+2024-05-28 00:01:30,702 - INFO - Command output: 
+2024-05-28 00:01:30,702 - INFO - Successfully pushed /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-19-asad_lab19 to https://github.com/AsadShahid04/lab-19-asad_lab19.git
+2024-05-28 00:01:31,419 - INFO - Repository lab-18-asad-lab18 already exists on GitHub. Skipping creation.
+2024-05-28 00:01:31,420 - INFO - Running command: git remote set-url origin https://github.com/AsadShahid04/lab-18-asad-lab18.git
+2024-05-28 00:01:31,476 - INFO - Command output: 
+2024-05-28 00:01:31,477 - INFO - Remote URL set to https://github.com/AsadShahid04/lab-18-asad-lab18.git
+2024-05-28 00:01:31,477 - INFO - Running command: git push --all
+2024-05-28 00:01:32,686 - INFO - Command output: 
+2024-05-28 00:01:32,686 - INFO - Running command: git push --tags
+2024-05-28 00:01:33,288 - INFO - Command output: 
+2024-05-28 00:01:33,288 - INFO - Successfully pushed /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-18-asad-lab18 to https://github.com/AsadShahid04/lab-18-asad-lab18.git
+2024-05-28 00:01:34,033 - INFO - Repository lab-17-2-asad_lab17_new already exists on GitHub. Skipping creation.
+2024-05-28 00:01:34,034 - INFO - Running command: git remote set-url origin https://github.com/AsadShahid04/lab-17-2-asad_lab17_new.git
+2024-05-28 00:01:34,097 - INFO - Command output: 
+2024-05-28 00:01:34,097 - INFO - Remote URL set to https://github.com/AsadShahid04/lab-17-2-asad_lab17_new.git
+2024-05-28 00:01:34,097 - INFO - Running command: git push --all
+2024-05-28 00:01:35,159 - INFO - Command output: 
+2024-05-28 00:01:35,159 - INFO - Running command: git push --tags
+2024-05-28 00:01:35,792 - INFO - Command output: 
+2024-05-28 00:01:35,793 - INFO - Successfully pushed /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-17-2-asad_lab17_new to https://github.com/AsadShahid04/lab-17-2-asad_lab17_new.git
+2024-05-28 00:01:36,642 - INFO - Repository lab-16-asad-lab16 already exists on GitHub. Skipping creation.
+2024-05-28 00:01:36,643 - INFO - Running command: git remote set-url origin https://github.com/AsadShahid04/lab-16-asad-lab16.git
+2024-05-28 00:01:36,692 - INFO - Command output: 
+2024-05-28 00:01:36,692 - INFO - Remote URL set to https://github.com/AsadShahid04/lab-16-asad-lab16.git
+2024-05-28 00:01:36,692 - INFO - Running command: git push --all
+2024-05-28 00:01:37,926 - INFO - Command output: 
+2024-05-28 00:01:37,926 - INFO - Running command: git push --tags
+2024-05-28 00:01:38,512 - INFO - Command output: 
+2024-05-28 00:01:38,512 - INFO - Successfully pushed /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-16-asad-lab16 to https://github.com/AsadShahid04/lab-16-asad-lab16.git
+2024-05-28 00:01:39,253 - INFO - Repository lab-15-AsadShahid04 already exists on GitHub. Skipping creation.
+2024-05-28 00:01:39,254 - INFO - Running command: git remote set-url origin https://github.com/AsadShahid04/lab-15-AsadShahid04.git
+2024-05-28 00:01:39,303 - INFO - Command output: 
+2024-05-28 00:01:39,303 - INFO - Remote URL set to https://github.com/AsadShahid04/lab-15-AsadShahid04.git
+2024-05-28 00:01:39,303 - INFO - Running command: git push --all
+2024-05-28 00:01:41,622 - INFO - Command output: 
+2024-05-28 00:01:41,622 - INFO - Running command: git push --tags
+2024-05-28 00:01:42,450 - INFO - Command output: 
+2024-05-28 00:01:42,450 - INFO - Successfully pushed /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-15-AsadShahid04 to https://github.com/AsadShahid04/lab-15-AsadShahid04.git
+2024-05-28 00:01:43,173 - INFO - Repository homework-2-asad_jeremy_hw2 already exists on GitHub. Skipping creation.
+2024-05-28 00:01:43,174 - INFO - Running command: git remote set-url origin https://github.com/AsadShahid04/homework-2-asad_jeremy_hw2.git
+2024-05-28 00:01:43,221 - INFO - Command output: 
+2024-05-28 00:01:43,221 - INFO - Remote URL set to https://github.com/AsadShahid04/homework-2-asad_jeremy_hw2.git
+2024-05-28 00:01:43,221 - INFO - Running command: git push --all
+2024-05-28 00:01:44,375 - INFO - Command output: 
+2024-05-28 00:01:44,375 - INFO - Running command: git push --tags
+2024-05-28 00:01:45,594 - INFO - Command output: 
+2024-05-28 00:01:45,594 - INFO - Successfully pushed /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/homework-2-asad_jeremy_hw2 to https://github.com/AsadShahid04/homework-2-asad_jeremy_hw2.git
+2024-05-28 00:01:46,452 - INFO - Repository lab-14-asad_lab14 already exists on GitHub. Skipping creation.
+2024-05-28 00:01:46,453 - INFO - Running command: git remote set-url origin https://github.com/AsadShahid04/lab-14-asad_lab14.git
+2024-05-28 00:01:46,505 - INFO - Command output: 
+2024-05-28 00:01:46,505 - INFO - Remote URL set to https://github.com/AsadShahid04/lab-14-asad_lab14.git
+2024-05-28 00:01:46,505 - INFO - Running command: git push --all
+2024-05-28 00:01:47,921 - INFO - Command output: 
+2024-05-28 00:01:47,921 - INFO - Running command: git push --tags
+2024-05-28 00:01:48,572 - INFO - Command output: 
+2024-05-28 00:01:48,572 - INFO - Successfully pushed /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-14-asad_lab14 to https://github.com/AsadShahid04/lab-14-asad_lab14.git
+2024-05-28 00:01:49,227 - INFO - Repository lab-13-asad_lab13 already exists on GitHub. Skipping creation.
+2024-05-28 00:01:49,227 - INFO - Running command: git remote set-url origin https://github.com/AsadShahid04/lab-13-asad_lab13.git
+2024-05-28 00:01:49,280 - INFO - Command output: 
+2024-05-28 00:01:49,280 - INFO - Remote URL set to https://github.com/AsadShahid04/lab-13-asad_lab13.git
+2024-05-28 00:01:49,280 - INFO - Running command: git push --all
+2024-05-28 00:01:50,487 - INFO - Command output: 
+2024-05-28 00:01:50,487 - INFO - Running command: git push --tags
+2024-05-28 00:01:51,127 - INFO - Command output: 
+2024-05-28 00:01:51,127 - INFO - Successfully pushed /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-13-asad_lab13 to https://github.com/AsadShahid04/lab-13-asad_lab13.git
+2024-05-28 00:01:51,853 - INFO - Repository lab-12-asad_lab12 already exists on GitHub. Skipping creation.
+2024-05-28 00:01:51,854 - INFO - Running command: git remote set-url origin https://github.com/AsadShahid04/lab-12-asad_lab12.git
+2024-05-28 00:01:51,912 - INFO - Command output: 
+2024-05-28 00:01:51,912 - INFO - Remote URL set to https://github.com/AsadShahid04/lab-12-asad_lab12.git
+2024-05-28 00:01:51,912 - INFO - Running command: git push --all
+2024-05-28 00:01:53,184 - INFO - Command output: 
+2024-05-28 00:01:53,185 - INFO - Running command: git push --tags
+2024-05-28 00:01:53,760 - INFO - Command output: 
+2024-05-28 00:01:53,760 - INFO - Successfully pushed /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-12-asad_lab12 to https://github.com/AsadShahid04/lab-12-asad_lab12.git
+2024-05-28 00:01:54,822 - INFO - Repository lab-11-asad_lab11 already exists on GitHub. Skipping creation.
+2024-05-28 00:01:54,823 - INFO - Running command: git remote set-url origin https://github.com/AsadShahid04/lab-11-asad_lab11.git
+2024-05-28 00:01:54,877 - INFO - Command output: 
+2024-05-28 00:01:54,877 - INFO - Remote URL set to https://github.com/AsadShahid04/lab-11-asad_lab11.git
+2024-05-28 00:01:54,877 - INFO - Running command: git push --all
+2024-05-28 00:01:56,264 - INFO - Command output: 
+2024-05-28 00:01:56,264 - INFO - Running command: git push --tags
+2024-05-28 00:01:56,861 - INFO - Command output: 
+2024-05-28 00:01:56,862 - INFO - Successfully pushed /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-11-asad_lab11 to https://github.com/AsadShahid04/lab-11-asad_lab11.git
+2024-05-28 00:01:57,969 - INFO - Repository lab-09-asad_shayan_lab09 already exists on GitHub. Skipping creation.
+2024-05-28 00:01:57,969 - INFO - Running command: git remote set-url origin https://github.com/AsadShahid04/lab-09-asad_shayan_lab09.git
+2024-05-28 00:01:58,015 - INFO - Command output: 
+2024-05-28 00:01:58,016 - INFO - Remote URL set to https://github.com/AsadShahid04/lab-09-asad_shayan_lab09.git
+2024-05-28 00:01:58,016 - INFO - Running command: git push --all
+2024-05-28 00:01:59,184 - INFO - Command output: 
+2024-05-28 00:01:59,184 - INFO - Running command: git push --tags
+2024-05-28 00:01:59,840 - INFO - Command output: 
+2024-05-28 00:01:59,840 - INFO - Successfully pushed /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-09-asad_shayan_lab09 to https://github.com/AsadShahid04/lab-09-asad_shayan_lab09.git
+2024-05-28 00:02:00,503 - INFO - Repository lab-10-asad_lab10 already exists on GitHub. Skipping creation.
+2024-05-28 00:02:00,503 - INFO - Running command: git remote set-url origin https://github.com/AsadShahid04/lab-10-asad_lab10.git
+2024-05-28 00:02:00,553 - INFO - Command output: 
+2024-05-28 00:02:00,554 - INFO - Remote URL set to https://github.com/AsadShahid04/lab-10-asad_lab10.git
+2024-05-28 00:02:00,554 - INFO - Running command: git push --all
+2024-05-28 00:02:01,688 - INFO - Command output: 
+2024-05-28 00:02:01,689 - INFO - Running command: git push --tags
+2024-05-28 00:02:02,361 - INFO - Command output: 
+2024-05-28 00:02:02,362 - INFO - Successfully pushed /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-10-asad_lab10 to https://github.com/AsadShahid04/lab-10-asad_lab10.git
+2024-05-28 00:02:03,083 - INFO - Repository homework-1-jeremy-and-asad-hw1 already exists on GitHub. Skipping creation.
+2024-05-28 00:02:03,084 - INFO - Running command: git remote set-url origin https://github.com/AsadShahid04/homework-1-jeremy-and-asad-hw1.git
+2024-05-28 00:02:03,135 - INFO - Command output: 
+2024-05-28 00:02:03,136 - INFO - Remote URL set to https://github.com/AsadShahid04/homework-1-jeremy-and-asad-hw1.git
+2024-05-28 00:02:03,136 - INFO - Running command: git push --all
+2024-05-28 00:02:04,293 - INFO - Command output: 
+2024-05-28 00:02:04,293 - INFO - Running command: git push --tags
+2024-05-28 00:02:04,997 - INFO - Command output: 
+2024-05-28 00:02:04,998 - INFO - Successfully pushed /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/homework-1-jeremy-and-asad-hw1 to https://github.com/AsadShahid04/homework-1-jeremy-and-asad-hw1.git
+2024-05-28 00:02:05,715 - INFO - Repository lab-08-asadshayanlab08 already exists on GitHub. Skipping creation.
+2024-05-28 00:02:05,715 - INFO - Running command: git remote set-url origin https://github.com/AsadShahid04/lab-08-asadshayanlab08.git
+2024-05-28 00:02:05,762 - INFO - Command output: 
+2024-05-28 00:02:05,762 - INFO - Remote URL set to https://github.com/AsadShahid04/lab-08-asadshayanlab08.git
+2024-05-28 00:02:05,762 - INFO - Running command: git push --all
+2024-05-28 00:02:06,924 - INFO - Command output: 
+2024-05-28 00:02:06,924 - INFO - Running command: git push --tags
+2024-05-28 00:02:07,619 - INFO - Command output: 
+2024-05-28 00:02:07,619 - INFO - Successfully pushed /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-08-asadshayanlab08 to https://github.com/AsadShahid04/lab-08-asadshayanlab08.git
+2024-05-28 00:02:08,318 - INFO - Repository lab-07-b-asad-joe-lab-7 already exists on GitHub. Skipping creation.
+2024-05-28 00:02:08,319 - INFO - Running command: git remote set-url origin https://github.com/AsadShahid04/lab-07-b-asad-joe-lab-7.git
+2024-05-28 00:02:08,372 - INFO - Command output: 
+2024-05-28 00:02:08,373 - INFO - Remote URL set to https://github.com/AsadShahid04/lab-07-b-asad-joe-lab-7.git
+2024-05-28 00:02:08,373 - INFO - Running command: git push --all
+2024-05-28 00:02:09,564 - INFO - Command output: 
+2024-05-28 00:02:09,564 - INFO - Running command: git push --tags
+2024-05-28 00:02:10,230 - INFO - Command output: 
+2024-05-28 00:02:10,230 - INFO - Successfully pushed /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-07-b-asad-joe-lab-7 to https://github.com/AsadShahid04/lab-07-b-asad-joe-lab-7.git
+2024-05-28 00:02:10,943 - INFO - Repository lab-07-a-asad-joe-lab-7 already exists on GitHub. Skipping creation.
+2024-05-28 00:02:10,944 - INFO - Running command: git remote set-url origin https://github.com/AsadShahid04/lab-07-a-asad-joe-lab-7.git
+2024-05-28 00:02:10,993 - INFO - Command output: 
+2024-05-28 00:02:10,993 - INFO - Remote URL set to https://github.com/AsadShahid04/lab-07-a-asad-joe-lab-7.git
+2024-05-28 00:02:10,993 - INFO - Running command: git push --all
+2024-05-28 00:02:12,039 - INFO - Command output: 
+2024-05-28 00:02:12,040 - INFO - Running command: git push --tags
+2024-05-28 00:02:12,595 - INFO - Command output: 
+2024-05-28 00:02:12,595 - INFO - Successfully pushed /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-07-a-asad-joe-lab-7 to https://github.com/AsadShahid04/lab-07-a-asad-joe-lab-7.git
+2024-05-28 00:02:13,261 - INFO - Repository lab-06-a-asad-joe-lab-6a already exists on GitHub. Skipping creation.
+2024-05-28 00:02:13,262 - INFO - Running command: git remote set-url origin https://github.com/AsadShahid04/lab-06-a-asad-joe-lab-6a.git
+2024-05-28 00:02:13,322 - INFO - Command output: 
+2024-05-28 00:02:13,322 - INFO - Remote URL set to https://github.com/AsadShahid04/lab-06-a-asad-joe-lab-6a.git
+2024-05-28 00:02:13,322 - INFO - Running command: git push --all
+2024-05-28 00:02:14,791 - INFO - Command output: 
+2024-05-28 00:02:14,792 - INFO - Running command: git push --tags
+2024-05-28 00:02:15,463 - INFO - Command output: 
+2024-05-28 00:02:15,463 - INFO - Successfully pushed /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-06-a-asad-joe-lab-6a to https://github.com/AsadShahid04/lab-06-a-asad-joe-lab-6a.git
+2024-05-28 00:02:16,391 - INFO - Repository lab-06-b-asad-joe-lab-6a already exists on GitHub. Skipping creation.
+2024-05-28 00:02:16,392 - INFO - Running command: git remote set-url origin https://github.com/AsadShahid04/lab-06-b-asad-joe-lab-6a.git
+2024-05-28 00:02:16,441 - INFO - Command output: 
+2024-05-28 00:02:16,441 - INFO - Remote URL set to https://github.com/AsadShahid04/lab-06-b-asad-joe-lab-6a.git
+2024-05-28 00:02:16,441 - INFO - Running command: git push --all
+2024-05-28 00:02:17,772 - INFO - Command output: 
+2024-05-28 00:02:17,773 - INFO - Running command: git push --tags
+2024-05-28 00:02:18,526 - INFO - Command output: 
+2024-05-28 00:02:18,526 - INFO - Successfully pushed /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-06-b-asad-joe-lab-6a to https://github.com/AsadShahid04/lab-06-b-asad-joe-lab-6a.git
+2024-05-28 00:02:19,321 - INFO - Repository lab-05-asad-joe-lab-5 already exists on GitHub. Skipping creation.
+2024-05-28 00:02:19,321 - INFO - Running command: git remote set-url origin https://github.com/AsadShahid04/lab-05-asad-joe-lab-5.git
+2024-05-28 00:02:19,365 - INFO - Command output: 
+2024-05-28 00:02:19,365 - INFO - Remote URL set to https://github.com/AsadShahid04/lab-05-asad-joe-lab-5.git
+2024-05-28 00:02:19,365 - INFO - Running command: git push --all
+2024-05-28 00:02:20,441 - INFO - Command output: 
+2024-05-28 00:02:20,442 - INFO - Running command: git push --tags
+2024-05-28 00:02:21,031 - INFO - Command output: 
+2024-05-28 00:02:21,031 - INFO - Successfully pushed /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-05-asad-joe-lab-5 to https://github.com/AsadShahid04/lab-05-asad-joe-lab-5.git
+2024-05-28 00:02:21,753 - INFO - Repository homework-0-asad-shahid-hw0 already exists on GitHub. Skipping creation.
+2024-05-28 00:02:21,754 - INFO - Running command: git remote set-url origin https://github.com/AsadShahid04/homework-0-asad-shahid-hw0.git
+2024-05-28 00:02:21,803 - INFO - Command output: 
+2024-05-28 00:02:21,803 - INFO - Remote URL set to https://github.com/AsadShahid04/homework-0-asad-shahid-hw0.git
+2024-05-28 00:02:21,803 - INFO - Running command: git push --all
+2024-05-28 00:02:22,990 - INFO - Command output: 
+2024-05-28 00:02:22,990 - INFO - Running command: git push --tags
+2024-05-28 00:02:23,607 - INFO - Command output: 
+2024-05-28 00:02:23,607 - INFO - Successfully pushed /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/homework-0-asad-shahid-hw0 to https://github.com/AsadShahid04/homework-0-asad-shahid-hw0.git
+2024-05-28 00:02:24,327 - INFO - Repository lab-04-asad-joe-lab04 already exists on GitHub. Skipping creation.
+2024-05-28 00:02:24,327 - INFO - Running command: git remote set-url origin https://github.com/AsadShahid04/lab-04-asad-joe-lab04.git
+2024-05-28 00:02:24,379 - INFO - Command output: 
+2024-05-28 00:02:24,379 - INFO - Remote URL set to https://github.com/AsadShahid04/lab-04-asad-joe-lab04.git
+2024-05-28 00:02:24,379 - INFO - Running command: git push --all
+2024-05-28 00:02:25,642 - INFO - Command output: 
+2024-05-28 00:02:25,642 - INFO - Running command: git push --tags
+2024-05-28 00:02:26,224 - INFO - Command output: 
+2024-05-28 00:02:26,224 - INFO - Successfully pushed /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-04-asad-joe-lab04 to https://github.com/AsadShahid04/lab-04-asad-joe-lab04.git
+2024-05-28 00:02:26,928 - INFO - Repository lab-02-asad-joe-lab-2 already exists on GitHub. Skipping creation.
+2024-05-28 00:02:26,928 - INFO - Running command: git remote set-url origin https://github.com/AsadShahid04/lab-02-asad-joe-lab-2.git
+2024-05-28 00:02:26,976 - INFO - Command output: 
+2024-05-28 00:02:26,976 - INFO - Remote URL set to https://github.com/AsadShahid04/lab-02-asad-joe-lab-2.git
+2024-05-28 00:02:26,976 - INFO - Running command: git push --all
+2024-05-28 00:02:28,137 - INFO - Command output: 
+2024-05-28 00:02:28,138 - INFO - Running command: git push --tags
+2024-05-28 00:02:28,746 - INFO - Command output: 
+2024-05-28 00:02:28,746 - INFO - Successfully pushed /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-02-asad-joe-lab-2 to https://github.com/AsadShahid04/lab-02-asad-joe-lab-2.git
+2024-05-28 00:02:29,638 - INFO - Repository lab-01-b-AsadShahid04 already exists on GitHub. Skipping creation.
+2024-05-28 00:02:29,639 - INFO - Running command: git remote set-url origin https://github.com/AsadShahid04/lab-01-b-AsadShahid04.git
+2024-05-28 00:02:29,691 - INFO - Command output: 
+2024-05-28 00:02:29,691 - INFO - Remote URL set to https://github.com/AsadShahid04/lab-01-b-AsadShahid04.git
+2024-05-28 00:02:29,691 - INFO - Running command: git push --all
+2024-05-28 00:02:30,908 - INFO - Command output: 
+2024-05-28 00:02:30,908 - INFO - Running command: git push --tags
+2024-05-28 00:02:31,512 - INFO - Command output: 
+2024-05-28 00:02:31,512 - INFO - Successfully pushed /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-01-b-AsadShahid04 to https://github.com/AsadShahid04/lab-01-b-AsadShahid04.git
+2024-05-28 00:02:32,148 - INFO - Repository lab-01-a-AsadShahid04 already exists on GitHub. Skipping creation.
+2024-05-28 00:02:32,148 - INFO - Running command: git remote set-url origin https://github.com/AsadShahid04/lab-01-a-AsadShahid04.git
+2024-05-28 00:02:32,203 - INFO - Command output: 
+2024-05-28 00:02:32,203 - INFO - Remote URL set to https://github.com/AsadShahid04/lab-01-a-AsadShahid04.git
+2024-05-28 00:02:32,203 - INFO - Running command: git push --all
+2024-05-28 00:02:33,542 - INFO - Command output: 
+2024-05-28 00:02:33,543 - INFO - Running command: git push --tags
+2024-05-28 00:02:34,241 - INFO - Command output: 
+2024-05-28 00:02:34,241 - INFO - Successfully pushed /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/lab-01-a-AsadShahid04 to https://github.com/AsadShahid04/lab-01-a-AsadShahid04.git
+2024-05-28 00:02:35,232 - INFO - Repository LPC-F23-CS20-D01-Lab04 already exists on GitHub. Skipping creation.
+2024-05-28 00:02:35,232 - INFO - Running command: git remote set-url origin https://github.com/AsadShahid04/LPC-F23-CS20-D01-Lab04.git
+2024-05-28 00:02:35,272 - INFO - Command output: 
+2024-05-28 00:02:35,272 - INFO - Remote URL set to https://github.com/AsadShahid04/LPC-F23-CS20-D01-Lab04.git
+2024-05-28 00:02:35,272 - INFO - Running command: git push --all
+2024-05-28 00:02:36,191 - INFO - Command output: 
+2024-05-28 00:02:36,192 - INFO - Running command: git push --tags
+2024-05-28 00:02:36,869 - INFO - Command output: 
+2024-05-28 00:02:36,869 - INFO - Successfully pushed /Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories/LPC-F23-CS20-D01-Lab04 to https://github.com/AsadShahid04/LPC-F23-CS20-D01-Lab04.git
+2024-05-28 00:02:36,869 - INFO - Process completed
