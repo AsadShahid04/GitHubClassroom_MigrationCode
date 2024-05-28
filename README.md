@@ -47,7 +47,7 @@ gh auth login
 
 2. Update the script:
 
-Replace the repo_urls list in  `AsadGithubClassroomMigrationScript.py` to include the URLs of the repositories you want to migrate.
+Replace the `repo_urls` list in  `AsadGithubClassroomMigrationScript.py` to include the URLs of the repositories you want to migrate.
 Set the `clone_directory` variable to the desired local directory where the repositories will be cloned.
 
 ## Usage:
