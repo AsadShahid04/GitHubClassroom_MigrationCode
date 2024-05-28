@@ -83,42 +83,14 @@ def push_to_new_repo(repo_path, new_repo_url):
         logger.error(f"Failed to push {repo_path} to {new_repo_url}")
 
 if __name__ == "__main__":
+   #TODO
     repo_urls = [
-        "https://github.com/drdr-teaching/homework-4-asad_jeremy_hw4",
-        "https://github.com/drdr-teaching/lab-23-asadlab23",
-        "https://github.com/drdr-teaching/lab-22-asadlab22",
-        "https://github.com/drdr-teaching/lab-21-asad-lab21",
-        "https://github.com/drdr-teaching/homework-3-austin-and-asad-hw3",
-        "https://github.com/drdr-teaching/lab-20-asad-lab20",
-        "https://github.com/drdr-teaching/lab-19-asad_lab19",
-        "https://github.com/drdr-teaching/lab-18-asad-lab18",
-        "https://github.com/drdr-teaching/lab-17-2-asad_lab17_new",
-        "https://github.com/drdr-teaching/lab-16-asad-lab16",
-        "https://github.com/drdr-teaching/lab-15-AsadShahid04",
-        "https://github.com/drdr-teaching/homework-2-asad_jeremy_hw2",
-        "https://github.com/drdr-teaching/lab-14-asad_lab14",
-        "https://github.com/drdr-teaching/lab-13-asad_lab13",
-        "https://github.com/drdr-teaching/lab-12-asad_lab12",
-        "https://github.com/drdr-teaching/lab-11-asad_lab11",
-        "https://github.com/drdr-teaching/lab-09-asad_shayan_lab09",
-        "https://github.com/drdr-teaching/lab-10-asad_lab10",
-        "https://github.com/drdr-teaching/homework-1-jeremy-and-asad-hw1",
-        "https://github.com/drdr-teaching/lab-08-asadshayanlab08",
-        "https://github.com/drdr-teaching/lab-07-b-asad-joe-lab-7",
-        "https://github.com/drdr-teaching/lab-07-a-asad-joe-lab-7",
-        "https://github.com/drdr-teaching/lab-06-a-asad-joe-lab-6a",
-        "https://github.com/drdr-teaching/lab-06-b-asad-joe-lab-6a",
-        "https://github.com/drdr-teaching/lab-05-asad-joe-lab-5",
-        "https://github.com/drdr-teaching/homework-0-asad-shahid-hw0",
-        "https://github.com/drdr-teaching/lab-04-asad-joe-lab04",
-        "https://github.com/drdr-teaching/lab-02-asad-joe-lab-2",
-        "https://github.com/drdr-teaching/lab-01-b-AsadShahid04",
-        "https://github.com/drdr-teaching/lab-01-a-AsadShahid04",
-        "https://github.com/drdr-teaching/LPC-F23-CS20-D01-Lab04",
+        "https://github.com/drdr-teaching/ASSIGNMENT_NAME",
         # Add more repositories as needed
     ]
 
-    clone_directory = "/Users/asadshahid/Desktop/CodingFiles/GitHub_Classroom/ClonedRepositories"
+    #TODO 
+    clone_directory = "/INSERT_DIRECTORY_PATH"
 
     logger.info("Starting the cloning and pushing process")
 
